@@ -1,1 +1,2 @@
-# kre8s
+# kre8s - The Mysterious Kubernetes Project
+
